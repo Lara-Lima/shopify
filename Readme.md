@@ -1,4 +1,4 @@
-# Shopify Project Name
+# Shopify Project - Urban Man Apperal Theme
 
 <p align="center">
   <img alt="Built with Shopify" src="./tela.gif">
@@ -67,8 +67,6 @@ To install this Shopify theme, follow these steps:
 3. Save the changes and create a commit message describing what you did: `git commit -m "feature: My new feature"`
 4. Push your changes: `git push origin my-feature`
 
-## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](link-to-your-license-file) file for details.
+Made with ❤️ by Lara Lima 👋🏽 [Get in touch!](https://www.linkedin.com/in/lara-lima-pereira-b41585205/)
 
-Made with ❤️ by Your Name 👋🏽 [Get in touch!](link-to-your-linkedin-or-other-contact)
