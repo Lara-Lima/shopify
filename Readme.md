@@ -1,4 +1,32 @@
-# Shopify Project
+# Shopify Project Name
+
+<p align="center">
+  <img alt="Built with Shopify" src="./tela.gif">
+</p>
+<p align="center">
+  <img alt="Built with Shopify" src="https://img.shields.io/badge/built%20with-Shopify-%2300BFDE">
+</p>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Lara-Lima/shopify?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Lara-Lima/shopify">
+
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img alt="Made by Your Name" src="https://img.shields.io/badge/made%20by-Lara Lima-%2304D361">
+  </a>
+  
+  <a href="https://github.com/Lara-Lima/shopify/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lara-Lima/shopify">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/Lara-Lima/shopify/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Lara-Lima/shopify?style=social">
+  </a>
+</p>
+
+## 💻 About the project
 
 This project is a custom Shopify theme designed for a men's clothing store. It focuses on providing a seamless shopping experience tailored for men's fashion.
 
